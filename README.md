@@ -1,16 +1,30 @@
-# portfolio
+# Portfolio App:
 
-An animated and simple portfolio app
+### This Portfolio app created using Flutter and Flare with loads of animation.
 
-# Getting Started
 
-This project is a starting point for a Flutter application.
+##Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic1.gif"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</p>
+<p>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic2.gif"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+<p>
+    <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic3.gif"/>
+
+</p>
+
+# Learning
+
+#### App has some unique animations on each page. All involving some different kinds of animations and its code
+
+# 👍 Contribution
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -m 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
