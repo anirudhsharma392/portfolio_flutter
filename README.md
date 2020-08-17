@@ -3,7 +3,7 @@
 ### This Portfolio app created using Flutter and Flare with loads of animation.
 
 
-##Screenshots:
+## Screenshots:
 
 <p>
     <img src="https://raw.githubusercontent.com/anirudhsharma392/portfolio_flutter/master/screenshots/pic1.gif"/>
