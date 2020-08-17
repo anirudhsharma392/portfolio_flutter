@@ -18,7 +18,6 @@
 
 </p>
 
-# Learning
 
 #### App has some unique animations on each page. All involving some different kinds of animations and its code
 
