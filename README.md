@@ -2,6 +2,8 @@
 
 ### This Portfolio app created using Flutter and Flare with loads of animation.
 
+![PlayStore][playstore-image]][https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio]
+
 
 ## Screenshots:
 
@@ -27,3 +29,4 @@
 3. Commit your changes (git commit -m 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
+[playstore-image]: https://mrpatiwi.github.io/app-badges/playstore.png
