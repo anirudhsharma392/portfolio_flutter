@@ -2,7 +2,7 @@
 
 ### This Portfolio app created using Flutter and Flare with loads of animation.
 
-![PlayStore][playstore-image]][https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio]
+[PlayStore][playstore-image][https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio]
 
 
 ## Screenshots:
