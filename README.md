@@ -3,7 +3,7 @@
 ### This Portfolio app created using Flutter and Flare with loads of animation.
 
 <a href="https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio">
-    <img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" />
+    <img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg", height:"20", width:"20" />
 </a>
 
 
