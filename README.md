@@ -29,4 +29,4 @@
 3. Commit your changes (git commit -m 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
-[playstore-image]: https://mrpatiwi.github.io/app-badges/playstore.png
+[playstore-image]: https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg
