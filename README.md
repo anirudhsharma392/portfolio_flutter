@@ -2,8 +2,8 @@
 
 ### This Portfolio app created using Flutter and Flare with loads of animation.
 
-[[[https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg]]][1]
-[1]: https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio
+[[[https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg]]](https://play.google.com/store/apps/details?id=com.flutterglutter.portfolio) 
+
 
 
 ## Screenshots:
